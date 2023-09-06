@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "firstName": "pallapu",
+      "lastName": "pavani",
+      "gender": "female",
+      "email": "pallapupavani9595@gmail.com",
+      "mobileNo": "7670998232",
+      "branch": "ECE",
+      "passedOutYears": [
+        "2017-2021"
+      ],
+      "id": 1
+    },
+    {
+      "firstName": "pallapu",
+      "lastName": "pavani",
+      "gender": "female",
+      "email": "pallapupavani9595@gmail.com",
+      "mobileNo": "7670998232",
+      "branch": "ECE",
+      "passedOutYear": [
+        "2017-2021"
+      ],
+      "id": 2
+    },
+    {
+      "firstName": "bhavani",
+      "lastName": "Ampolu",
+      "gender": "female",
+      "email": "bhavani@gmail.com",
+      "mobileNo": "13564738979",
+      "branch": "ECE",
+      "passedOutYear": [
+        "2017-2021"
+      ],
+      "id": 3
+    },
+    {
+      "firstName": "pallapu",
+      "lastName": "venu",
+      "gender": "male",
+      "email": "venu9595@gmail.com",
+      "mobileNo": "07670998232",
+      "branch": "ECE",
+      "passedOutYear": [
+        "2017-2021"
+      ],
+      "id": 4
+    },
+    {
+      "firstName": "sreesh",
+      "lastName": "parise",
+      "gender": "female",
+      "email": "yamini@gmail.com",
+      "mobileNo": "7670998232",
+      "branch": "ECE",
+      "passedOutYear": [
+        "2017-2021"
+      ],
+      "id": 5
+    },
+    {
+      "firstName": "sreesh",
+      "lastName": "Ampolu",
+      "gender": "female",
+      "email": "sree9595@gmail.com",
+      "mobileNo": "07670998232",
+      "branch": "ECE",
+      "passedOutYear": [
+        "2017-2021"
+      ],
+      "id": 6
+    },
+    {
+      "firstName": "sreesh",
+      "lastName": "Ampolu",
+      "gender": "female",
+      "email": "sree9595@gmail.com",
+      "mobileNo": "07670998232",
+      "branch": "ECE",
+      "passedOutYear": [
+        "2017-2021"
+      ],
+      "id": 7
+    },
+    {
+      "firstName": "pallapu",
+      "lastName": "pavani",
+      "gender": "female",
+      "email": "pallapupavani9595@gmail.com",
+      "mobileNo": "7670998232",
+      "branch": "ECE",
+      "passedOutYear": [
+        "2017-2021"
+      ],
+      "id": 8
+    },
+    {
+      "firstName": "ampolu",
+      "lastName": "vicky",
+      "gender": "male",
+      "email": "vicky9595@gmail.com",
+      "mobileNo": "7670998232",
+      "branch": "ECE",
+      "passedOutYear": [
+        "2018-2022"
+      ],
+      "id": 9
+    },
+    {
+      "firstName": "akhila",
+      "lastName": "yakkala",
+      "gender": "female",
+      "email": "akhilayakkala@gmail.com",
+      "mobileNo": "987654321",
+      "branch": "ECE",
+      "passedOutYear": [
+        "2018-2022"
+      ],
+      "id": 10
+    },
+    {
+      "firstName": "parise",
+      "lastName": "sneha sri",
+      "gender": "female",
+      "email": "snehasree123@gmail.com",
+      "mobileNo": "7896544234",
+      "branch": "CSE",
+      "passedOutYear": [
+        "2018-2022"
+      ],
+      "id": 11
+    }
+  ]
+}

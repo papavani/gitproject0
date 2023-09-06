@@ -1,0 +1,44 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+h2{
+  font-weight: bold;
+}
+
+label {
+  font-weight: bold;
+}
+input[type="text"],
+select {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.Submit-button
+{
+  background-clip: blue;
+  display: flex;
+  justify-content: left;
+  margin-top: 20px;
+}  
+.Submit-button button {
+  background-color: red; /* Set the default background color */
+  color: white; /* Set the default text color */
+  border: none; /* Remove the default border */
+  padding: 8px 16px; /* Add some padding to the button */
+  cursor: pointer; /* Show the pointer cursor when hovering */
+}
+
+.Submit-button button:enabled {
+  background-color: greenyellow; /* Set the background color to blue when the button is enabled */
+  /* You can adjust other styles here for the enabled button */
+}

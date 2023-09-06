@@ -1,0 +1,67 @@
+{
+  "user": [
+    {
+      "firstName": "venu",
+      "lastName": "pallapu",
+      "gender": "male",
+      "mobileNo": "9182357403",
+      "email": "venu9595@gmail.com",
+      "branch": "CSC",
+      "id": 1
+    },
+    {
+      "firstName": "pavani",
+      "lastName": "Pallapu",
+      "gender": "female",
+      "mobileNo": "7670998232",
+      "email": "pallapupavani9595@gmail.com",
+      "branch": "ECE",
+      "id": 2
+    },
+    {
+      "firstName": "sreesh",
+      "lastName": "sree",
+      "gender": "female",
+      "mobileNo": "7670998232",
+      "email": "sree9595@gmail.com",
+      "branch": "ECE",
+      "id": 3
+    },
+    {
+      "firstName": "yamini",
+      "lastName": "parise",
+      "gender": "female",
+      "mobileNo": "9865834676",
+      "email": "yamini@gmail.com",
+      "branch": "ECE",
+      "id": 4
+    },
+    {
+      "firstName": "pavani",
+      "lastName": "pallapu",
+      "gender": "female",
+      "mobileNo": "07670998232",
+      "email": "pallapupavani9595@gmail.com",
+      "branch": "ECE",
+      "id": 5
+    },
+    {
+      "firstName": "pavani",
+      "lastName": "Pallapu",
+      "gender": "female",
+      "mobileNo": "07670998232",
+      "email": "pallapupavani9595@gmail.com",
+      "branch": "ECE",
+      "id": 6
+    },
+    {
+      "firstName": "ngyty",
+      "lastName": "myt",
+      "gender": "male",
+      "mobileNo": "086567867675",
+      "email": "bnvdse@gmnail.com",
+      "branch": "CSC",
+      "id": 7
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+.submit-button-container
+{
+  display: flex;
+  justify-content: left;
+  margin-top: 20px;
+}
+.submit-button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 8px 16px;
+  border: none;
+  cursor: pointer;
+
+}
+
+.submit-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+/* Flex container to align form fields in a column */
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Style for each form field */
+.form-field {
+  margin-bottom: 10px;
+  width: 100%;
+}
+input[type="text"],
+select {
+  width: 50%;
+  padding: 6px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
